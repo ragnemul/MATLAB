@@ -1,0 +1,14 @@
+# Authors: see AUTHORS.md at project root.
+# CopyPolicy: released under the terms of the LGPLv2.1, see LICENSE at project root.
+# URL: https://github.com/asrob-uc3m/robotDevastation
+
+IF (NOT 2018_PTMR_FOUND)
+
+  SET(2018_PTMR_LIBRARIES "@2018_PTMR_LIBRARIES@")
+  SET(2018_PTMR_INCLUDE_DIRS "@2018_PTMR_INCLUDE_DIRS@")
+  SET(2018_PTMR_LINK_DIRS "@2018_PTMR_LINK_DIRS@")
+  SET(2018_PTMR_DEFINES "@2018_PTMR_DEFINES@")
+  SET(2018_PTMR_MODULE_PATH "@2018_PTMR_MODULE_PATH@")
+
+  SET (2018_PTMR_FOUND TRUE)
+ENDIF (NOT 2018_PTMR_FOUND)
