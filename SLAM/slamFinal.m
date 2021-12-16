@@ -1,9 +1,4 @@
-%-------------------------------------------------------
-% PROYECTO DE NAVEGACION ROBOTICA MOVILES
-% UC3M - Universidad Carlos III de Madrid
-% Luis Menendez Garcia
-% Sheila Dato Escribano
-% 
+% Luis Menendez (ragnemul@gmail.com)
 % Modificación del proyecto SLAM_Zaragoza para dotarlo de capacidades de navegacion
 % y planificación
 
