@@ -6,10 +6,12 @@ A solution has to be given to a planning problem on a plane for a mobile robot t
 
 Examples of execution with partial exploration:
 
-| Column 1  | Column 2  | Column 3  |
-|:----------|:----------|:----------|
-| Cell 1    | Cell 2    | Cell 3    |
-| Cell 1    | Cell 2    | Cell 3    |
 
 
 ![Example](https://github.com/ragnemul/MATLAB/blob/main/planification/images/map1.png)
+![Example](https://github.com/ragnemul/MATLAB/blob/main/planification/images/map2.png)
+![Example](https://github.com/ragnemul/MATLAB/blob/main/planification/images/map3.png)
+
+![Example](https://github.com/ragnemul/MATLAB/blob/main/planification/images/map4.png)
+![Example](https://github.com/ragnemul/MATLAB/blob/main/planification/images/map5.png)
+![Example](https://github.com/ragnemul/MATLAB/blob/main/planification/images/map6.png)
