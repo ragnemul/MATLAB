@@ -192,8 +192,8 @@ function node = nearest(G, p_sampled,rows, xy, R)
         pidx = str2num(S.Nodes(i,1).Name{1});          
         p = strnode2coord(S.Nodes(i,1).Name{1},rows);
         
-        if ~ArcoLibre([p_sampled(2), p_sampled(1)],[p(2),p(1)],R)
-        %if ~viablepath([p_sampled(1), p_sampled(2)],[p(1),p(2)],xy)
+        %if ~ArcoLibre([p_sampled(2), p_sampled(1)],[p(2),p(1)],R)
+        if ~viablepath([p_sampled(1), p_sampled(2)],[p(1),p(2)],xy)
             continue;
         end
         
