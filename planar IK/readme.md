@@ -4,4 +4,4 @@ This is a simple script to show how a planar arm can reach a position using Jaco
 
 
 
-![Example](https://github.com/ragnemul/MATLAB/blob/main/IK/images/IK1.png)
+![Example](https://github.com/ragnemul/MATLAB/blob/main/planar%20IK/images/IK1.png)
